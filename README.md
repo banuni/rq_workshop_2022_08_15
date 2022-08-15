@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+
+## React Query Workshop!
+
+- docs for react query: https://react-query-v3.tanstack.com/
+- docs for next.js  https://nextjs.org/
+- starting branch: `master`
+- our workshop's ending state branch: `azlanim_and_cheaters`
 ## Getting Started
 
 First, run the development server:
