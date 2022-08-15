@@ -1,5 +1,8 @@
 .container {
   padding: 0 2rem;
+  background-color: #222;
+  color: white;
+  font-size: 24px;
 }
 
 .main {
